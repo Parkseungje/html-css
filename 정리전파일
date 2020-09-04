@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
+    <title>home</title>
+</head>
+<body>
+    <div>
+        <i class="far fa-star"></i><br />
+        <a href="home.html">home</a>
+        <a href="my favorite.html">my favorite</a>
+        <a href="my values.html">나의 가치관</a>
+        <a href="place to visit.html">place to visit</a>
+    </div>
+</body>
+</html>
+
+
+nav>ul>li*4>a    단축키 prettier 다운받아야 사용가능
