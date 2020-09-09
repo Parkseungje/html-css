@@ -19,3 +19,20 @@
 
 
 nav>ul>li*4>a    단축키 prettier 다운받아야 사용가능
+
+
+.my-song_photo5{
+    margin-top:0px;
+}
+
+.my-song_photo6{
+    margin-top:0px;
+}
+
+.my-song_photo7{
+    margin-top:0px;
+}
+
+.my-song_photo8{
+    margin-top:0px;
+}
