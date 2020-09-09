@@ -1,0 +1,18 @@
+@import "reset.css";  /*각각의 css창을 따로 만들어 그 안에서 설정하고, 그 각각 css창을 이곳으로 @import로 모아 한번에 html에 적욕시킨다.*/
+@import "nav-bar.css";
+@import "myphoto.css";
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');/*폰트*/
+@import "favorite.css";
+@import "values.css";
+@import "place.css";
+body{
+    background-color : rgb(223, 250, 244);
+    height: 300vh;  /*화면을 값만큼 늘려 스크롤바가 생기게함.*/
+}
+
+a { /* a태그는 링크속성 설정해주는 태그*/
+    text-decoration: none; /* 기본링크 밑줄쳐진것을 없애고 아무것도 없는값으로 만드는것 */
+}
+h5,span,div {
+    font-family: 'Jua', sans-serif;
+}

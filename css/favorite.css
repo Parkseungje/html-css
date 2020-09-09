@@ -1,0 +1,202 @@
+.favorite_head{
+    padding-top:150px;
+    font-size:25px;
+    padding-left:20px;
+    color: rgb(248, 50, 109);
+}
+.favorite_thing{
+    padding-top:150px;
+    font-size:70px;
+    color: rgb(9, 57, 214);
+}
+
+.favorite_image{
+    padding-top:20px;
+    padding-left:40px;
+    width: 500px;
+    height: 500px;
+    border-radius: 100px;
+}
+.favorite_imagedsc{
+    padding-left:40px;
+    font-size:25px;
+    display:flex;
+    padding-top:10px;
+}
+.favorite_imagedsc1{
+    padding-left:150px;
+    padding-right:110px;
+    width:400px; 
+}
+.favorite_imagedsc2{
+    padding-left:90px;
+    padding-right:120px;
+    width:400px;
+}
+.favorite_imagedsc3{
+    padding-left:100px;
+    padding-right:30px;
+    width:380px;
+}
+.my-song_collection{
+    position:relative;
+    left:650px;
+    font-size:25px;
+}
+.my-song_photo1{
+    position:absolute;
+    margin-top:15px;
+    width:300px;
+    height:300px;
+    left: -600px;
+    border: solid black 10px;
+    border-radius:50px;
+}
+.my-song_photo2{
+    position:absolute;
+    margin-top:15px;
+    width:300px;
+    height:300px;
+    left: -200px;
+    border: solid black 10px;
+    border-radius:50px;
+}
+.my-song_photo3{
+    position:absolute;
+    margin-top:15px;
+    width:300px;
+    height: 300px;
+    left: 200px;
+    border: solid black 10px;
+    border-radius:50px;
+}
+.my-song_photo4{
+    position:absolute;
+    margin-top:15px;
+    width:300px;
+    left: 600px;
+    border: solid black 10px;
+    border-radius:50px;
+}
+.my-song_photo5{
+    position:absolute;
+    margin-top:0px;
+    width:300px;
+    height: 300px;
+    left: -200px;
+    border: solid black 10px;
+    border-radius:50px;
+}
+.my-song_photo6{
+    position:absolute;
+    margin-top:0px;
+    width:300px;
+    height: 300px;
+    left: 200px;
+    border: solid black 10px;
+    border-radius:50px;
+}
+.my-song_photo7{
+    position:absolute;
+    margin-top:0px;
+    width:300px;
+    height:300px;
+    left: 600px;
+    border: solid black 10px;
+    border-radius:50px;
+}
+
+.my-song_photo8{
+    position:absolute;
+    margin-top:0px;
+    width:300px;
+    height:300px;
+    left: -600px;
+    border: solid black 10px;
+    border-radius:50px;
+}
+
+
+.favorite_last{
+    padding-top:50px;
+}
+
+.my-song_names1{
+    padding-top:350px;
+    padding-bottom:0px;
+    margin-bottom:40px;
+    
+
+}
+.my-song_names2{
+    padding-top:350px;
+}
+
+.photo1{
+    position:relative;
+}
+.photo1_name{
+    position:absolute;
+    margin-top:360px;
+    left:-550px;
+}
+.photo2{
+    position:relative;
+}
+.photo2_name{
+    position:absolute;
+    margin-top:360px;
+    left:-120px;
+}
+.photo3{
+    position:relative;
+}
+.photo3_name{
+    position:absolute;
+    margin-top:360px;
+    left:290px;
+}
+.photo4{
+    position:relative;
+}
+.photo4_name{
+    position:absolute;
+    margin-top:360px;
+    left:680px;
+}
+.photo5{
+    position:relative;
+}
+.photo5_name{
+    position:absolute;
+    margin-top:340px;
+    left:-600px;
+}
+.photo6{
+    position:relative;
+}
+.photo6_name{
+    position:absolute;
+    margin-top:340px;
+    left:-140px;
+}
+.photo7{
+    position:relative;
+}
+.photo7_name{
+    position:absolute;
+    margin-top:340px;
+    left:280px;
+}
+.photo8{
+    position:relative;
+}
+.photo8_name{
+    position:absolute;
+    margin-top:340px;
+    left:700px;
+}
+
+.my-song_photos2{
+    margin-top:80px;
+}
