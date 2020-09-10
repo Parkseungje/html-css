@@ -6,8 +6,10 @@
 @import "values.css";
 @import "place.css";
 body{
-    background-color : rgb(223, 250, 244);
-    height: 300vh;  /*화면을 값만큼 늘려 스크롤바가 생기게함.*/
+    background-image : url(../사진/배경3.jpg); /*css에서 배경화면 넣기*/
+    background-size:cover; /*이것을 설정안해주면 배경화면이 반복해서 나옴, 한 이미지로 배경전체화면을 덮기위해 사용*/
+    height: 380vh;  
+  
 }
 
 a { /* a태그는 링크속성 설정해주는 태그*/

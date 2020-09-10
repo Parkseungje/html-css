@@ -11,7 +11,7 @@
     width: 400px;
     height: 400px;
     border-radius: 200px;/* 사이드라인 각 둥그렇게 깍는것*/
-    border: solid rgb(8, 235, 178) 5px;
+    border: solid rgb(8, 235, 178) 8px;
 }
 
 .my-component_coloumn{
@@ -44,8 +44,8 @@
     flex-direction: row;
     font-weight: 500;
     font-size: 30px;
-    border-radius:10px;
-    border: solid rgb(8, 235, 178) 5px;
+    border-radius:70px;
+    border: solid rgb(8, 235, 178) 8px;
 }
 .my-component_dsc3{
     position:absolute;
@@ -59,6 +59,7 @@
 
 .my-component_text{
     font-family: 'Jua', sans-serif;
+    color: rgb(252, 253, 253);
 }
 
 .my-component_photo2{
@@ -143,4 +144,7 @@
     font-size: 30px;
     width:1200px;
     left:-400px;
+}
+body{
+    height: 300vh;
 }

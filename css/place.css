@@ -1,71 +1,72 @@
 .place1{
     padding-top:300px;
-    margin-left:310px;
+    margin-left:300px;
 }
 .place2{
     padding-top: 50px;
-    margin-left:200px;
+    margin-left:190px;
 }
 
 .place_cebu1{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid black 10px;
 }
 .place_cebu2{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid white 10px;
 }
 .place_cebu3{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid black 10px;
 }
 .place_cebu4{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid white 10px;
 }
 .place_cebu5{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid black 10px;
 }
 .place_cam1{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid white 10px;
 }
 .place_cam2{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid black 10px;
 }
 .place_cam3{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid white 10px;
 }
 .place_cam4{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid black 10px;
 }
 .place_cam5{
     width:200px;
     height:200px;
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid white 10px;
 }
 .place_cam6{
     width:200px;
     height:200px; 
-    border: solid rgb(0, 207, 243) 5px;
+    border: solid black 10px;
 }
 .place_text{
     padding-top: 30px;
-    margin-left:570px;
+    margin-left:560px;
     font-size:30px;
+    color:rgb(250, 251, 255);
 }
 .place_text1{
     padding-left:50px;
